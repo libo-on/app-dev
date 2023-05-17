@@ -1,121 +1,37 @@
-# app-dev
-My first repository
-# Markdown Cheat Sheet
+# Favorite Movie
 
-Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
+## Title
 
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
+The Shawshank Redemption
 
-## Basic Syntax
+## Director
 
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
+Frank Darabont
 
-### Heading
+## Release Year
 
-# H1
-## H2
-### H3
+1994
 
-### Bold
+## Plot
 
-**bold text**
+The Shawshank Redemption is a drama film based on Stephen King's novella "Rita Hayworth and Shawshank Redemption." The story revolves around Andy Dufresne, a banker who is sentenced to life in Shawshank State Penitentiary for the murder of his wife and her lover, a crime he claims he didn't commit. In prison, Andy forms a bond with fellow inmate Ellis "Red" Redding and uses his skills to navigate the corrupt system, ultimately seeking redemption and freedom.
 
-### Italic
+## Cast
 
-*italicized text*
+- Tim Robbins as Andy Dufresne
+- Morgan Freeman as Ellis "Red" Redding
+- Bob Gunton as Warden Samuel Norton
+- William Sadler as Heywood
+- Clancy Brown as Captain Byron Hadley
 
-### Blockquote
+## IMDb Rating
 
-> blockquote
+9.3/10
 
-### Ordered List
+## Official Trailer
 
-1. First item
-2. Second item
-3. Third item
+[The Shawshank Redemption - Official Trailer](https://www.youtube.com/watch?v=6hB3S9bIaco)
 
-### Unordered List
+## Poster
 
-- First item
-- Second item
-- Third item
-
-### Code
-
-`code`
-
-### Horizontal Rule
-
----
-
-### Link
-
-[Markdown Guide](https://www.markdownguide.org)
-
-### Image
-
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
-
-## Extended Syntax
-
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
-
-### Table
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-### Fenced Code Block
-
-```
-{
-  "firstName": "Merlina",
-  "lastName": "Libo-on",
-  "age": 23
-}
-```
-
-### Footnote
-
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
-
-### Heading ID
-
-### My Great Heading {#custom-id}
-
-### Definition List
-
-term
-: definition
-
-### Strikethrough
-
-~~The world is flat.~~
-
-### Task List
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-### Emoji
-
-That is so funny! :joy:
-
-(See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
-
-### Highlight
-
-I need to highlight these ==very important words==.
-
-### Subscript
-
-H~2~O
-
-### Superscript
-
-X^2^
+![The Shawshank Redemption Poster](https://example.com/poster.jpg)
